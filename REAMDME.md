@@ -8,7 +8,7 @@ Hacked in a day (and a night)
 ## OS install
 
   * RASPIAN
-  * noisebridge Wlan, dhcp
+  * noisebridge Wlan, dhcp (ip usually 10.20.0.248)
   * ethernet, dhcp
   * user: pi
   * pass: standard pi pass for tinkering
@@ -29,4 +29,4 @@ run ''./setup.sh''
   * ( to be done, touchbutton on a metalpad)
   * ( to be done, drive some of the speakers)
   * ( to be done, use a speake as microphone and react to eg. clapping hands)
-  
+  * ( to be done, a small webform to configure actions taken after sensor input or the like)
